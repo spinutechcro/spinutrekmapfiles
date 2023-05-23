@@ -1,1 +1,1 @@
-# spinutrekmap
+# spinutrekmapfiles
